@@ -1,0 +1,4 @@
+[Barbeirans , health 45, power 30, damage 35] 
+[Archer , health 45, power 39, damage 55]
+[Wizard , health 42, power 55, damage 89] 
+[Giant , health 69, power 50, damage 35]
